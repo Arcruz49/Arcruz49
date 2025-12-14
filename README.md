@@ -11,7 +11,7 @@
 
 ```diff
 
-+ I’m Arthur, a 22-year-old Software Engineer and Full Stack Web Developer who programs both for work and for fun.                     
++ I’m Arthur, a 22-year-old Software Engineer and Full Stack Web Developer who programs both for work and for fun.
 - I prefer Backend, but I also have experience with Frontend.
 ! I love cats and coffee.
 ```
