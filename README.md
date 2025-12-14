@@ -46,6 +46,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-735902?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-003F8C?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
