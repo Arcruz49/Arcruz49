@@ -9,8 +9,6 @@
 
 ###
 
-<p align="left">.<br><br></p>
-
 ```diff
 
 + I’m Arthur, a 22-year-old Software Engineer and Full Stack Web Developer who programs both for work and for fun.
