@@ -9,7 +9,15 @@
 
 ###
 
-<p align="left">I’m Arthur, a 22-year-old Software Engineer and Full Stack Web Developer who programs both for work and for fun.<br>I prefer Backend, but I also have experience with Frontend.<br>I love cats and coffee.</p>
+<p align="left">.<br><br></p>
+
+```diff
+
++ I’m Arthur, a 22-year-old Software Engineer and Full Stack Web Developer who programs both for work and for fun.
+- I prefer Backend, but I also have experience with Frontend.
+! I love cats and coffee.
+# Interested in JavaScript, WebAssembly, Rust stuff and how cookies are made
+```
 
 ###
 
