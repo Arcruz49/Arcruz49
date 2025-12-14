@@ -7,7 +7,8 @@
 <h2 align="left">About me</h2>
 
 ###
-
+  
+<div class="highlight highlight-source-diff notranslate position-relative overflow-auto">
 <p align="left">My name is Arthur Cruz, and I’m a Software Engineer and Full Stack Web Developer from Brazil.</p>
 
 ###
@@ -15,6 +16,10 @@
 <p align="left">I’m Arthur, a 22-year-old developer who programs both for work and for fun.<br>I prefer Backend, but I also have experience with Frontend.<br>I love cats and coffee.</p>
 
 ###
+
+  
+</div>
+
 
 <h2 align="left">I work with</h2>
 
