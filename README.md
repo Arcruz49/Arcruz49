@@ -9,7 +9,7 @@
 ###
   
 <div class="highlight highlight-source-diff notranslate position-relative overflow-auto">
-<p align="left">My name is Arthur Cruz, and I’m a Software Engineer and Full Stack Web Developer from Brazil.</p>
+<p align="left">I’m a Software Engineer and Full Stack Web Developer from Brazil.</p>
 
 ###
 
