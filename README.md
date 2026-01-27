@@ -9,7 +9,7 @@
 
 ```diff
 
-@@ I’m Arthur Cruz, a 22-year-old Software Engineer and Full Stack Web Developer.@@
+@@ I’m Arthur Cruz, a 23-year-old Software Engineer and Full Stack Web Developer.@@
 + I program for work and fun.
 - I prefer Backend, but I also have experience with Frontend.
 # I love cats and coffee.
