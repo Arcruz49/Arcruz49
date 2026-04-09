@@ -1,5 +1,7 @@
 ###
+
 <h2 align="left">About me</h2>
+
 ###
 ```diff
 @@ I'm Arthur Cruz, a 23-year-old Software Engineer and Full Stack Web Developer.@@
