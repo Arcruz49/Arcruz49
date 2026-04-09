@@ -1,6 +1,5 @@
 ###
 <h2 align="left">About me</h2>
-
 ###
 ```diff
 @@ I'm Arthur Cruz, a 23-year-old Software Engineer and Full Stack Web Developer.@@
@@ -10,10 +9,9 @@
 ```
 ###
 <h2 align="left">I work with</h2>
-
 ###
 <div align="center">
-
+  
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -28,6 +26,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -40,10 +39,8 @@
 ![Docker](https://img.shields.io/badge/Docker-003F8C?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
 ###
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhvaHhtbmVoa3FsazU4bjRxMmM3Zjdra3kwZmd6Y2owOTIzOHp5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
 </div>
-
 ###
