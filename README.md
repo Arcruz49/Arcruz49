@@ -3,15 +3,20 @@
 <h2 align="left">About me</h2>
 
 ###
+
 ```diff
 @@ I'm Arthur Cruz, a 23-year-old Software Engineer and Full Stack Web Developer.@@
 + I program for work and fun.
 - I prefer Backend, but I also have experience with Frontend.
 # I love cats and coffee.
+
 ```
 ###
+
 <h2 align="left">I work with</h2>
+
 ###
+
 <div align="center">
   
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -41,8 +46,11 @@
 ![Docker](https://img.shields.io/badge/Docker-003F8C?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+
 ###
+
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhvaHhtbmVoa3FsazU4bjRxMmM3Zjdra3kwZmd6Y2owOTIzOHp5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
 </div>
+
 ###
